@@ -12,6 +12,9 @@ Security Engineering: High ability to run LLM and Tenable Nessus vulnerability s
 - ##📈 Ongoing Projects & Portfolio Scope
 
 Nebula Shield: An automated security assessment environment intercepting and filtering adversarial prompts through real time proxy layers.
+
 TENUS Simulation Exploration: Design space evaluation matrix mapping performance throughput trade offs against dynamic power constraints.
+
 AZ104 ARMSECURE: Protection of cloud assets and simulation through ARM templates aligned with AZ-104, and mirrors real world cloud security tasks
+
 Peril AI Attack and Defense Implementation: Continued monitroing of local LLM Ollama activity and remediation tasks for hardening. 
