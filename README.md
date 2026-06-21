@@ -1,17 +1,15 @@
 Hello, I am @edgerunner85👋
 
-Highly methodical AI and cyber professional with technical experience spanning cloud configurations, computer hardware simulation analysis, cybersecurity analysis, Secure SDLC practices, OWASP Top Ten comprhension, and application security framework deployment.
+- I am hugely focused on building automated, secure pipelines and optimizing system workloads. Also, I am a post-secondary Professor educating the next generation of cyber professionals.
 
-I am hugely focused on building automated, secure pipelines and optimizing system workloads. Also, I am a post-secondary Professor educating the next generation of cyber professionals.
-
-##🛠️ Core Competencies & Stacks
+- ##🛠️ Core Competencies & Stacks
 
 Application Security: Defensive proxy middleware implementation, vulnerability scanning suites (Garak, Tenable Nessus, Kali Linux architectures), automated guardrail assessment.
 Systems Architecture: Architectural modeling, hardware simulation exploration using gem5 models
 Automation & Scripting: Linux shell orchestration (Bash pipeline design), data processing engineering (Python tracking and Pandas telemetry extraction).
 Security Engineering: High ability to run LLM and Tenable Nessus vulnerability scan configurations, text semantic parsing rules, image labeling verification systems, prompt engineering workflow, prompt approaches (few-shot, tree-branch), and bash scripting.
 
-##📈 Ongoing Projects & Portfolio Scope
+- ##📈 Ongoing Projects & Portfolio Scope
 
 Nebula Shield: An automated security assessment environment intercepting and filtering adversarial prompts through real time proxy layers.
 TENUS Simulation Exploration: Design space evaluation matrix mapping performance throughput trade offs against dynamic power constraints.
