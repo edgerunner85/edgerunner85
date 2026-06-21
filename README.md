@@ -1,6 +1,6 @@
 Hello, I am @edgerunner85👋
 
-- I am hugely focused on building automated, secure pipelines and optimizing system workloads. Also, I am a post-secondary Professor educating the next generation of cyber professionals.
+- I am hugely focused on building automated, secure pipelines and optimizing system workloads. Also, I am a post-secondary professor educating the next generation of talented cyber professionals.
 
 - ##🛠️ Core Competencies & Stacks
 
