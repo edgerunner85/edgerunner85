@@ -1,6 +1,6 @@
 Hello, I am @edgerunner85👋
 
-- I am hugely focused on building automated, secure pipelines and optimizing system workloads. Also, I am a post-secondary professor educating the next generation of talented cyber professionals.
+- I am hugely focused on building local LLM environments, continuous monitoring of asset control mechanisms, automated secure CI/CD pipelines, and optimizing system workloads. Also, I am a post-secondary professor educating the next generation of talented cyber professionals.
 
 - ##🛠️ Core Competencies & Stacks
 
