@@ -5,7 +5,6 @@ Hello, I am @edgerunner85👋
 ##🛠️ Core Competencies & Stacks
 
 - Application Security: Defensive proxy middleware implementation, vulnerability scanning suites (Garak, Tenable Nessus, Kali Linux architectures), automated guardrail assessment.
-- Systems Architecture: Architectural modeling, hardware simulation exploration using gem5 models
 Automation & Scripting: Linux shell orchestration (Bash pipeline design), data processing engineering (Python tracking and Pandas telemetry extraction).
 - Security Engineering: High ability to run LLM and Tenable Nessus vulnerability scan configurations, text semantic parsing rules, image labeling verification systems, prompt engineering workflow, prompt approaches (few-shot, tree-branch), and bash scripting.
 
