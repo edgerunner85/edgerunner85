@@ -1,4 +1,5 @@
-Hello, I am @edgerunner85👋
+Greetings 
+👋I am @edgerunner85
 
 - I am hugely focused on building local LLM environments, continuous monitoring of asset control mechanisms, automated secure CI/CD pipelines, and optimizing system workloads. Also, I am a post-secondary professor educating the next generation of talented cyber pros.
 
@@ -9,8 +10,7 @@ Hello, I am @edgerunner85👋
 - Running local LLMs and Tenable Nessus vulnerability scan configurations, text semantic parsing rules, image labeling verification systems, prompt engineering workflow, prompt approaches (few-shot, tree-branch, interview), and bash scripting.
 
 ##📈 Ongoing Projects & Portfolio Scope
-
-- Peril AI Attack and Defense Sim: Continued monitroing of local LLM Ollama activity and remediation tasks for hardening. 
+- Venom Vault: Data poisioning LLM simulation with incident response testing
 
 - Nebula Shield: An automated security assessment environment intercepting and filtering adversarial prompts through real time proxy layers.
 
