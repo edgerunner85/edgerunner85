@@ -14,6 +14,6 @@ Greetings
 
 - Nebula Shield: An automated security assessment environment intercepting and filtering adversarial prompts through real time proxy layers.
 
-- AZ104 ARMSECURE: Protection of cloud assets and simulation through ARM templates aligned with AZ-104, and mirrors real world cloud security tasks
+- Azure ARMSECURE: Protection of cloud assets and simulation through ARM templates aligned with AZ-104, and mirrors real world cloud security tasks
 
 
